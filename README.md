@@ -33,7 +33,7 @@ Before running the application, make sure you have the following prerequisites i
    git clone https://github.com/your-username/file-upload-short-link.git ```
 
 2.Navigate to the project directory:
- ``` cd file-upload-short-link ```
+ ``` cd File-Upload ```
  
  3. nstall frontend and backend dependencies:
 
@@ -97,7 +97,7 @@ You're now ready to use the File Upload and Short Link Generation Platform. Acce
 
 - **Example Response:**
   ```bash
-  { "yourLink": "https://your-app-url.com/abc123" }
+  { "yourLink": "https://your-app-url.com/ab13" }
 
 ### File Access
 - Endpoint: /:shortLink
